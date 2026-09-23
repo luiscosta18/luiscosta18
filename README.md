@@ -1,4 +1,4 @@
-# Hi, I'm Luis Costa 👋
+# Hi, I'm Luíss Costa 👋
 
 I build and operate **cloud infrastructure, Kubernetes platforms, distributed systems, and data platforms**.
 
@@ -14,7 +14,6 @@ I have contributed to projects across the **cloud-native, distributed systems, a
 - [etcd Operator](https://github.com/etcd-io/etcd-operator)
 - [Vitess Operator](https://github.com/planetscale/vitess-operator)
 - [Temporal](https://github.com/temporalio/temporal)
-- PostgreSQL / Citus
 
 ## Technologies
 
