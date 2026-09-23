@@ -9,11 +9,11 @@ My work spans infrastructure automation, platform engineering, observability, an
 Open-source contributions include projects across the **cloud-native, distributed systems, and data infrastructure** ecosystem:
 
 * [Apache Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator)
+* [Temporal](https://github.com/temporalio/temporal)
 * [Trino](https://github.com/trinodb/trino)
 * [Trino Gateway](https://github.com/trinodb/trino-gateway)
 * [etcd Operator](https://github.com/etcd-io/etcd-operator)
 * [Vitess Operator](https://github.com/planetscale/vitess-operator)
-* [Temporal](https://github.com/temporalio/temporal)
 
 ## Projects
 
