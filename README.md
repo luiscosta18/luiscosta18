@@ -1,6 +1,6 @@
 # Hi, I'm Luís Costa 👋
 
-I build and operate **cloud infrastructure, Kubernetes platforms, distributed systems, and data platforms**.
+I build and operate **cloud infrastructure, kubernetes platforms, distributed systems, and data platforms**.
 
 My work spans infrastructure automation, platform engineering, observability, and highly available infrastructure across cloud and on-premise environments.
 
