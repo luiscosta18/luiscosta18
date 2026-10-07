@@ -6,11 +6,13 @@ My work spans infrastructure automation, platform engineering, observability, an
 
 ## Open Source
 
-Open-source contributions include projects across the **cloud-native, distributed systems, and data infrastructure** ecosystem:
+Open-source Helm chart contributions:
 
-* [Temporal](https://github.com/temporalio/temporal)
-* [Trino Gateway](https://github.com/trinodb/trino-gateway)
-* [etcd Operator](https://github.com/etcd-io/etcd-operator)
+* [Apache Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator/pull/829) — Helm metadata labels (merged)
+* [Temporal Helm Charts](https://github.com/temporalio/helm-charts/pull/646) — additional init containers (merged)
+* [Temporal Helm Charts](https://github.com/temporalio/helm-charts/pull/820) — cert-manager TLS proposal, credited in the [merged TLS support](https://github.com/temporalio/helm-charts/pull/954)
+* [etcd Operator](https://github.com/etcd-io/etcd-operator/pull/89) — initial Helm chart proposal, expanded in [PR #95](https://github.com/etcd-io/etcd-operator/pull/95) and cited by the [current upstream chart proposal](https://github.com/etcd-io/etcd-operator/pull/231)
+* [Trino Gateway](https://github.com/trinodb/trino-gateway/pull/245) — initial Helm chart proposal (closed without merging)
 
 ## Projects
 
