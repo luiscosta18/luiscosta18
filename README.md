@@ -9,7 +9,6 @@ My work spans infrastructure automation, platform engineering, observability, an
 Open-source contributions include projects across the **cloud-native, distributed systems, and data infrastructure** ecosystem:
 
 * [Temporal](https://github.com/temporalio/temporal)
-* [Trino](https://github.com/trinodb/trino)
 * [Trino Gateway](https://github.com/trinodb/trino-gateway)
 * [etcd Operator](https://github.com/etcd-io/etcd-operator)
 
