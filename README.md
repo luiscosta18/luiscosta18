@@ -6,9 +6,10 @@ My work spans infrastructure automation, platform engineering, observability, an
 
 ## Open Source
 
-Open-source Helm chart contribution:
+Open-source Helm chart contributions:
 
-* [Temporal Helm Charts: add additional init containers to the web chart](https://github.com/temporalio/helm-charts/pull/646)
+* [Apache Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator/pull/829)
+* [Temporal Helm Charts](https://github.com/temporalio/helm-charts/pull/646)
 
 ## Projects
 
