@@ -12,6 +12,7 @@ Open-source Helm chart contributions:
 * [Temporal Helm Charts](https://github.com/temporalio/helm-charts/pull/646) — additional init containers (merged)
 * [Temporal Helm Charts](https://github.com/temporalio/helm-charts/pull/820) — cert-manager TLS proposal, credited in the [merged TLS support](https://github.com/temporalio/helm-charts/pull/954)
 * [etcd Operator](https://github.com/etcd-io/etcd-operator/pull/89) — initial Helm chart proposal, expanded in [PR #95](https://github.com/etcd-io/etcd-operator/pull/95) and cited by the [current upstream chart proposal](https://github.com/etcd-io/etcd-operator/pull/231)
+* [Trino Gateway](https://github.com/trinodb/trino-gateway/pull/245) — initial Helm chart proposal (closed without merging)
 
 ## Projects
 
