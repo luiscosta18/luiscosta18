@@ -6,11 +6,11 @@ My work spans infrastructure automation, platform engineering, observability, an
 
 ## Open Source
 
-Open-source contributions include projects across the **cloud-native, distributed systems, and data infrastructure** ecosystem:
+Open-source contributions include Helm chart work across the **cloud-native and distributed systems** ecosystem:
 
-* [Temporal](https://github.com/temporalio/temporal)
-* [Trino Gateway](https://github.com/trinodb/trino-gateway)
-* [etcd Operator](https://github.com/etcd-io/etcd-operator)
+* [Temporal Helm Charts](https://github.com/temporalio/helm-charts/pull/820)
+* [Trino Gateway Helm Chart](https://github.com/trinodb/charts/pull/411)
+* [etcd Operator Helm Chart](https://github.com/etcd-io/etcd-operator/pull/95)
 
 ## Projects
 
