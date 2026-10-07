@@ -11,7 +11,7 @@ Open-source Helm chart contributions:
 * [Apache Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator/pull/829) — Helm metadata labels (merged)
 * [Temporal Helm Charts](https://github.com/temporalio/helm-charts) — [PR #646](https://github.com/temporalio/helm-charts/pull/646) added init containers; [PR #672](https://github.com/temporalio/helm-charts/pull/672) made `TEMPORAL_ADDRESS` configurable for the namespace init job (both merged)
 * [Temporal Helm Charts](https://github.com/temporalio/helm-charts/pull/820) — unmerged cert-manager TLS proposal, cited as inspiration for the [merged TLS support](https://github.com/temporalio/helm-charts/pull/954)
-* [etcd Operator](https://github.com/etcd-io/etcd-operator/pull/89) — initial Helm chart prototype, continued in [PR #95](https://github.com/etcd-io/etcd-operator/pull/95) (both closed without merging)
+* [etcd Operator](https://github.com/etcd-io/etcd-operator) — Helm chart prototypes in [PR #89](https://github.com/etcd-io/etcd-operator/pull/89) and [PR #95](https://github.com/etcd-io/etcd-operator/pull/95) (neither merged)
 
 ## Projects
 
