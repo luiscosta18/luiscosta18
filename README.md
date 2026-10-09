@@ -8,11 +8,11 @@ My work spans infrastructure automation, platform engineering, observability, an
 
 Open-source Helm chart contributions:
 
-* [Apache Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator/pull/829) — Helm metadata labels (merged)
-* [Temporal Helm Charts](https://github.com/temporalio/helm-charts) — [PR #646](https://github.com/temporalio/helm-charts/pull/646) added init containers; [PR #672](https://github.com/temporalio/helm-charts/pull/672) made `TEMPORAL_ADDRESS` configurable for the namespace init job (both merged)
-* [Temporal Helm Charts](https://github.com/temporalio/helm-charts/pull/820) — unmerged cert-manager TLS proposal, cited as inspiration for the [merged TLS support](https://github.com/temporalio/helm-charts/pull/954)
-* [Trino Gateway](https://github.com/trinodb/trino-gateway) — Created a Helm chart for Trino Gateway, covering deployment, configuration, secrets, database initialization and ingress [PR #245](https://github.com/trinodb/trino-gateway/pull/245)
-* [etcd Operator](https://github.com/etcd-io/etcd-operator) — Helm chart prototype in [PR #95](https://github.com/etcd-io/etcd-operator/pull/95)
+* [Apache Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator) — Helm metadata labels ([PR #829](https://github.com/apache/flink-kubernetes-operator/pull/829))
+* [Temporal Helm Charts](https://github.com/temporalio/helm-charts) — added init containers and made `TEMPORAL_ADDRESS` configurable for the namespace init job ([PR #646](https://github.com/temporalio/helm-charts/pull/646), [PR #672](https://github.com/temporalio/helm-charts/pull/672))
+* [Temporal Helm Charts](https://github.com/temporalio/helm-charts) — initial cert-manager TLS proposal ([PR #820](https://github.com/temporalio/helm-charts/pull/820)); TLS support was later implemented in [PR #954](https://github.com/temporalio/helm-charts/pull/954)
+* [Trino Gateway](https://github.com/trinodb/trino-gateway) — proposed a Helm chart covering deployment, configuration, secrets, database initialization and ingress ([PR #245](https://github.com/trinodb/trino-gateway/pull/245))
+* [etcd Operator](https://github.com/etcd-io/etcd-operator) — Helm chart prototype ([PR #95](https://github.com/etcd-io/etcd-operator/pull/95))
 
 ## Projects
 
