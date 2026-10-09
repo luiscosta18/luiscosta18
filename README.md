@@ -11,8 +11,8 @@ Open-source Helm chart contributions:
 * [Apache Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator) — Helm metadata labels ([PR #829](https://github.com/apache/flink-kubernetes-operator/pull/829))
 * [Temporal Helm Charts](https://github.com/temporalio/helm-charts) — added init containers and made `TEMPORAL_ADDRESS` configurable for the namespace init job ([PR #646](https://github.com/temporalio/helm-charts/pull/646), [PR #672](https://github.com/temporalio/helm-charts/pull/672))
 * [Temporal Helm Charts](https://github.com/temporalio/helm-charts) — initial cert-manager TLS proposal ([PR #820](https://github.com/temporalio/helm-charts/pull/820)); TLS support was later implemented in [PR #954](https://github.com/temporalio/helm-charts/pull/954)
-* [Trino Gateway](https://github.com/trinodb/trino-gateway) — proposed a Helm chart covering deployment, configuration, secrets, database initialization and ingress ([PR #245](https://github.com/trinodb/trino-gateway/pull/245))
-* [etcd Operator](https://github.com/etcd-io/etcd-operator) — Helm chart prototype ([PR #95](https://github.com/etcd-io/etcd-operator/pull/95))
+* [Trino Gateway](https://github.com/trinodb/trino-gateway) — submitted a Helm chart contribution covering deployment, configuration, secrets, database initialization and ingress ([PR #245](https://github.com/trinodb/trino-gateway/pull/245))
+* [etcd Operator](https://github.com/etcd-io/etcd-operator) — initial Helm chart contribution ([PR #95](https://github.com/etcd-io/etcd-operator/pull/95)); a later proposal explored generating the chart from Kustomize ([PR #231](https://github.com/etcd-io/etcd-operator/pull/231))
 
 ## Projects
 
